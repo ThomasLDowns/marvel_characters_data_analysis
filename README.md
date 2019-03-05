@@ -5,7 +5,7 @@ Data analysis of various characteristics of Marvel comics characters.
 
 Has the following sections in this order, notes and labels in the notebook.
 
-- Number of Appearances by Alignment
+- Number of Appearances by Alignment<br>
   Which alignment of character gets the most repeat appearances?
   
 - Percentage of One-Off Characters per Decade
